@@ -1,0 +1,87 @@
+echo "# caio-para-manu" >> README.md 
+git init 
+git add README.md 
+git commit -m "primeiro commit" 
+git branch -M main 
+git remote add origin https://github.com/caioxtz7/caio-para-manu.git
+ git push -u origin main
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para Minha Amada</title>
+    <style>
+        body {
+            background-color: #001F3F;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #FFD700;
+        }
+        .poema {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px auto;
+            max-width: 600px;
+        }
+        .galeria {
+            margin-top: 30px;
+        }
+        .galeria p {
+            font-style: italic;
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <h1>Para Minha Amada 💙</h1>
+    
+    <div class="poema">
+        <h2>Poema 1</h2>
+        <p>Ela é assim,<br>
+        pequena, mas de um coração imenso.<br>
+        Palavras curtas, significados vastos,<br>
+        mas não é assim que meu coração lhe vela.<br><br>
+        Seu olhar me inquieta,<br>
+        como se soubesse o quanto a amo.<br>
+        Uma sensação infinita,<br>
+        um amor sem limites por ti.<br><br>
+        Seus cachos me lembram o mar,<br>
+        ondas que dançam, me convidam a mergulhar.<br>
+        E eu, louco, me deixo levar,<br>
+        mesmo temendo que um dia você perceba<br>
+        que há alguém melhor para te amar.</p>
+    </div>
+    
+    <div class="poema">
+        <h2>Poema 2</h2>
+        <p>Meu sentimento não é igual ao seu,<br>
+        queria que sentisse o que sinto.<br>
+        Ao seu olhar encontrar o meu,<br>
+        o mesmo encanto, o mesmo instinto.<br><br>
+        O som da sua voz me acalma,<br>
+        suave, doce, me faz querer mais.<br>
+        E as curvas do seu cabelo caramelo,<br>
+        são um quadro que nunca se desfaz.<br><br>
+        Sua atenção, sempre quero ter,<br>
+        seu olhar, sempre quero ver.<br>
+        Meu amor por você transborda,<br>
+        difícil de conter.<br><br>
+        Conversar sem hora de acabar,<br>
+        é o que mais desejo ter.<br>
+        Espero que um dia sinta o mesmo por mim,<br>
+        e que esse sentimento nunca tenha fim.</p>
+    </div>
+    
+    <div class="galeria">
+        <h2>Galeria</h2>
+        <p>Em breve, adicionarei nossas fotos e vídeos aqui. 💙</p>
+    </div>
+</body>
+</html>
+
